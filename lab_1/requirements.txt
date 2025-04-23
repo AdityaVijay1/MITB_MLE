@@ -1,0 +1,4 @@
+jupyterlab==4.3.5
+numpy==2.2.2
+pand2.2.3
+matplotlib
